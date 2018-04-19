@@ -85,7 +85,7 @@
     ],
     "prefer-const": true,
     "quotemark": [
-      true,
+      false,                          //默认为true，引用时必须使用单引号
       "single"
     ],
     "radix": true,
